@@ -1,0 +1,21 @@
+body{
+  
+}
+
+
+.outcal{
+   
+}
+.headCal{
+    padding: 20px;
+    border: 1px solid;
+    height: auto;
+    width: 500px;
+    text-align: center; 
+    background-color: azure;
+    
+    margin: 200px auto auto;
+}
+hr{
+    border: 1px;
+}
